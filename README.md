@@ -43,7 +43,7 @@ This project focuses on predicting car prices using machine learning models. The
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/car-price-prediction.git
+   git clone https://github.com/M-Haris72/Car_Price_Prediction_Model.git
    ```
 2. Install dependencies:
    ```sh
